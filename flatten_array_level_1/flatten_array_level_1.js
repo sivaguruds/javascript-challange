@@ -26,5 +26,5 @@ const flattenArrayNes = (arr) => {
     }, [])
 };
 
-console.log(flattenArrayNes(arrayValue))
+console.log(flattenArrayNes(arrayValue));
 

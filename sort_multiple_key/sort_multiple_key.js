@@ -65,3 +65,12 @@ orders.sort((a,b) => {
 })
 
 console.log(orders)
+
+
+const states = [ 'California', 'maryland', 'Minnesota', 'ohio', 'Texas' ];
+
+states.sort((a,b) => {
+    return a - b
+})
+
+console.log(states)
